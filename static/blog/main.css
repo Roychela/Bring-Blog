@@ -40,14 +40,7 @@ body {
     color: #444444;
   }
   
-  a.article-title:hover {
-    color: #801f0e;
-    text-decoration: none;
-  }
   
-  a.mr-2 {
-    color: #801f0e;
-  }
   
   .article-content {
     white-space: pre-line;
